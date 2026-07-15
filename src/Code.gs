@@ -13,7 +13,7 @@
 // 6. Create a new HTML file named "index" → paste index.html content
 // 7. Run initSheets() once manually to create all tabs
 // 8. Deploy → New deployment → Web app
-//    - Execute as: Me
+//    - Exeåute as: Me
 //    - Who has access: Only myself
 // 9. Open the Web App URL
 // 10. Go to Settings in the app, enter your Confluence username
